@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">projekt</string>
+        <string name="header">Zapisy na kurs</string>
+        <string name="name">Imię i nazwisko</string>
+        <string name="email">Adres e-mail</string>
+        <string name="date">Data urodzenia</string>
+        <string name="course">Kurs</string>
+        <string name="mode">Tryb zajęć</string>
+        <string name="level">Poziom zaawansowania</string>
+        <string name="newsletter">Newsletter</string>
+        <string name="terms">Akceptuję regulamin</string>
+
+        <string name="courses">
+        -- wybierz kurs --
+    </string>
+
+        <string-array name="courses">
+            <item>-- wybierz kurs --</item>
+            <item>Programowanie w Javie</item>
+            <item>Aplikacje mobilne</item>
+            <item>Bazy danych</item>
+            <item>Sieci komputerowe</item>
+        </string-array>
+
+</resources>
